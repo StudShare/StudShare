@@ -5,7 +5,7 @@
 <b>Zakres funkcjonalnosci:</b>
 - zakladanie kont uzytkownikow<br />
 - mozliwosc dodawania notatek, przykladow, rozwiazan zadan, tutoriali w formie tekstu, zdjec, linkow do filmow<br />
-- mozliwosc przegladania zasobow strony dla zarejestrowanych uzytkownikow<br />
+- mozliwosc przegladania zasobow strony dla zarejestrowanych uzytkownikow<br /><br />
 
 <b>Technologie:</b> Java, HTML, CSS, JavaScript (jQuery)<br /><br />
 
