@@ -2,7 +2,7 @@
 
 <b>Temat pracy:</b> Projekt serwisu spolecznosciowego do wymiany notatkami, przykladami i wiedza miedzy uczniami i studentami.<br /><br />
 
-<b>Zakres funkcjonalnosci:</b> <br /><br />
+<b>Zakres funkcjonalnosci:</b> <br />
 
 - zakladanie kont uzytkownikow<br />
 - mozliwosc dodawania notatek, przykladow, rozwiazan zadan, tutoriali w formie tekstu, zdjec, linkow do filmow<br />
