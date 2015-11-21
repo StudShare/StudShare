@@ -1,14 +1,23 @@
-.navbar, .btn-search
+.navbar
 {
     background-color: #00bcd4;
+}
+.navbar .btn-search
+{
+    background-color: #70c6d1;
 }
 .navbar .glyphicon
 {
     color: white;
 }
-.input-group > *
+.navbar .input-group > *
 {
     border-color: #00bcd4;
+}
+.navbar-right a
+{
+    margin-right: 20px;
+    margin-left: 20px;
 }
 .container-fluid
 {
@@ -18,7 +27,7 @@
 .text-div h2
 {
     margin-top: 0px;
-    color: #00bcd4;
+    color: #03545e;
 }
 .text-div p
 {
@@ -33,35 +42,44 @@
     margin-top: 5%;
     margin-right: 20%;
     border-radius: 5px;
-    border: 3px solid #00bcd4;
+    border: 3px solid #03545e;
 }
 .login-area .header
 {
     top:0%;
     padding-left: 5%;
     font-size: 25px;
-    background-color: #00bcd4;
+    background-color: #03545e;
     height: 10%;
 }
-.login-area span, .login-area input, .login-area button
+.login-area span, .login-area button, .login-area button:hover, .login-area button:focus
 {
     color:white;
-    background-color: #00bcd4;
+    background-color: #03545e;
 }
 
+.login-area input
+{
+    color: #03545e;
+}
 .inputs-login
 {
+
     padding-left: 5%;
     padding-right: 5%;
     padding-bottom: 5%;
 }
-.inputs-login > div
+.inputs-login .input-group
 {
     margin-top: 5%;
 }
+.inputs-login .input-group > *
+{
+    border-color: #03545e;
+}
 .login-area .row a
 {
-    color: #00bcd4;
+    color: #03545e;
     margin-left: 10%;
     display: block;
 }
