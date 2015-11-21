@@ -1,0 +1,73 @@
+.navbar, .btn-search
+{
+    background-color: #00bcd4;
+}
+.navbar .glyphicon
+{
+    color: white;
+}
+.input-group > *
+{
+    border-color: #00bcd4;
+}
+.container-fluid
+{
+    margin-top: 10%;
+}
+
+.text-div h2
+{
+    margin-top: 0px;
+    color: #00bcd4;
+}
+.text-div p
+{
+    padding-right: 10%;
+    font-size: 20px;
+}
+
+.login-area
+{
+    color: white;
+    padding-bottom: 10px;
+    margin-top: 5%;
+    margin-right: 20%;
+    border-radius: 5px;
+    border: 3px solid #00bcd4;
+}
+.login-area .header
+{
+    top:0%;
+    padding-left: 5%;
+    font-size: 25px;
+    background-color: #00bcd4;
+    height: 10%;
+}
+.login-area span, .login-area input, .login-area button
+{
+    color:white;
+    background-color: #00bcd4;
+}
+
+.inputs-login
+{
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+}
+.inputs-login > div
+{
+    margin-top: 5%;
+}
+.login-area .row a
+{
+    color: #00bcd4;
+    margin-left: 10%;
+    display: block;
+}
+.login-area .row button
+{
+    float: right;
+    margin-right: 10%;
+}
+
