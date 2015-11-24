@@ -4,6 +4,9 @@
 
 <b>Zakres funkcjonalności:</b>
 
+0. Zawartość
+  - rozumiana jako suma elementów wchodzących w skład bazy danych notatek<br /><br />
+
 1. Gość
   - rozumiany jako użytkownik nie posiadający konta w serwisie lub niezalogowany<br />
   - posiada możliwość zarejestrowania i zarządzania swoim kontem użytkownika - poprzez zarządzanie rozumiane jest edycja hasła, zdjęcia profilowego, wyświetlanej nazwy użytkownika oraz podanego e-maila<br />
@@ -21,15 +24,23 @@
   - rozumiany jest jako superużytkownik serwisu posiadający podstawowe role zarządzające<br />
   - otrzymuje powiadomienia o nowo dodanej zawartości<br />
   - posiada uprawnienia do usunięcia zawartości niezgodnej z regulaminem serwisu<br />
-  - posiada uprawnienia do edycji oznaczeń (tzw. tagów) i tytułów poszczególnych elementów wchodzących w skład zawartości serwisu, jeżeli te nie są zgodne z tematyką jakiej dotyczy treść zawartości<br />
+  - posiada uprawnienia do edycji oznaczeń (tzw. tagów) i tytułów poszczególnych elementów wchodzących w skład zawartości serwisu, jeżeli te nie są zgodne z tematyką jakiej dotyczy treść zawartości<br /><br />
 
+4. Administrator
+  - rozszerza funkcjonalność moderatora serwisu tzn. posiada te same uprawnienia co moderator oraz dysponuje dodatkowymi<br />
+  - posiada możliwość zarządzania kontami użytkowników serwisu (również moderatorów) w zakresie usuwania i edycji<br />
+  - posiada dostęp do ustawień działania serwisu (zmiana logiki algorytmów, wyłączanie/włączanie poszczególnych funkcji itp.)<br /><br />
 
+<b>Składowe projektu:</b>
 
-- aplikacja mobilna na system operacyjny Android z mozliwoscia publikowania zdjec z kamery urzadzenia<br /><br />
+Na projekt składają się:
+
+  - serwis internetowy
+  - aplikacja mobilna na system operacyjny Android z możliwością publikowania zdjęć z aparatu urządzenia<br /><br />
 
 <b>Technologie:</b> Java, HTML, CSS, JavaScript (jQuery), JAX-RS, Spring, Hibernate, Android SDK<br /><br />
 
-<b>Czlonkowie grupy:</b><br />
+<b>Członkowie grupy:</b><br />
 Mateusz Zweigert<br />
 Kamil Liwiński<br />
 Adam Żuk<br />
