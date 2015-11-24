@@ -1,5 +1,11 @@
 # StudShare
 
+<b>Członkowie grupy:</b><br />
+Mateusz Zweigert<br />
+Kamil Liwiński<br />
+Adam Żuk<br />
+Bartosz Gross<br />
+
 <b>Temat pracy:</b> Projekt serwisu społecznościowego do wymiany notatkami, przykładami i wiedzą między uczniami i studentami.<br /><br />
 
 <b>Zakres funkcjonalności:</b>
@@ -43,9 +49,3 @@ Na projekt składają się:
 <b>Schematy</b><br />
 
   - <a href="http://oi66.tinypic.com/2bb9qb.jpg">Diagram przypadków użycia</a>
-
-<b>Członkowie grupy:</b><br />
-Mateusz Zweigert<br />
-Kamil Liwiński<br />
-Adam Żuk<br />
-Bartosz Gross<br />
