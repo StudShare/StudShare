@@ -8,7 +8,7 @@ Bartosz Gross<br /><br />
 
 <b>Temat pracy:</b> Projekt serwisu społecznościowego do wymiany notatkami, przykładami i wiedzą między uczniami i studentami.<br /><br />
 
-<h2><b>! </b></h2><a href="https://github.com/StudShare/StudShare/blob/master/TODO.MD">Założenia do zrealizowania w ciągu semestru zimowego 2015/2016</a><br /><br />
+<h2><b>! </b></h2><a href="https://github.com/StudShare/StudShare/blob/master/TODO.md">Założenia do zrealizowania w ciągu semestru zimowego 2015/2016</a><br /><br />
 
 <b>Zakres funkcjonalności:</b>
 
