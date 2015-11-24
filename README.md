@@ -1,8 +1,8 @@
 # StudShare
 
-<b>Temat pracy:</b> Projekt serwisu spolecznosciowego do wymiany notatkami, przykladami i wiedza miedzy uczniami i studentami.<br /><br />
+<b>Temat pracy:</b> Projekt serwisu społecznościowego do wymiany notatkami, przykładami i wiedzą między uczniami i studentami.<br /><br />
 
-<b>Zakres funkcjonalnosci:</b>
+<b>Zakres funkcjonalności:</b>
 
 1. Gość
   - rozumiany jako użytkownik nie posiadający konta w serwisie lub niezalogowany<br />
@@ -14,14 +14,20 @@
   - rozumiany jako użytkownik posiadający konto i aktualnie zalogowany w serwisie<br />
   - posiada możliwość zarządzania swoim kontem użytkownika - poprzez zarządzanie rozumiane jest edycja hasła, zdjęcia profilowego, wyświetlanej nazwy użytkownika oraz podanego e-maila<br />
   - posiada możliwość korzystania z wszystkich funkcji serwisu (przeglądanie, dodawanie nowej zawartości, ocenianie...)<br />
-  - posiada możliwość zarządzania dodanymi przez siebie zasobami (przeglądanie, edycja, usuwanie)<br />
+  - nowa zawartość może być dodana w formie tekstu jak i zdjęć<br />
+  - posiada możliwość zarządzania dodanymi przez siebie zasobami (przeglądanie, edycja, usuwanie)<br /><br />
 
-- zakladanie kont uzytkownikow<br />
-- mozliwosc dodawania notatek, przykladow, rozwiazan zadan, tutoriali w formie tekstu, zdjec, linkow do filmow<br />
-- mozliwosc przegladania zasobow strony dla zarejestrowanych uzytkownikow<br />
+3. Moderator
+  - rozumiany jest jako superużytkownik serwisu posiadający podstawowe role zarządzające<br />
+  - otrzymuje powiadomienia o nowo dodanej zawartości<br />
+  - posiada uprawnienia do usunięcia zawartości niezgodnej z regulaminem serwisu<br />
+  - posiada uprawnienia do edycji oznaczeń (tzw. tagów) i tytułów poszczególnych elementów wchodzących w skład zawartości serwisu, jeżeli te nie są zgodne z tematyką jakiej dotyczy treść zawartości<br />
+
+
+
 - aplikacja mobilna na system operacyjny Android z mozliwoscia publikowania zdjec z kamery urzadzenia<br /><br />
 
-<b>Technologie:</b> Java, HTML, CSS, JavaScript (jQuery), JAX-RS, Spring, Hibernate<br /><br />
+<b>Technologie:</b> Java, HTML, CSS, JavaScript (jQuery), JAX-RS, Spring, Hibernate, Android SDK<br /><br />
 
 <b>Czlonkowie grupy:</b><br />
 Mateusz Zweigert<br />
