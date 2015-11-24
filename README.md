@@ -40,6 +40,10 @@ Na projekt składają się:
 
 <b>Technologie:</b> Java, HTML, CSS, JavaScript (jQuery), JAX-RS, Spring, Hibernate, Android SDK<br /><br />
 
+<b>Schematy</b><br /><br />
+
+  <a href="http://oi66.tinypic.com/2bb9qb.jpg">Diagram przypadków użycia</a>
+
 <b>Członkowie grupy:</b><br />
 Mateusz Zweigert<br />
 Kamil Liwiński<br />
