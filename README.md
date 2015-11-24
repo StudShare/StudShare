@@ -35,7 +35,7 @@
 
 Na projekt składają się:
 
-  - serwis internetowy
+  - serwis internetowy w formie aplikacji internetowej (WEBAPP)
   - aplikacja mobilna na system operacyjny Android z możliwością publikowania zdjęć z aparatu urządzenia<br /><br />
 
 <b>Technologie:</b> Java, HTML, CSS, JavaScript (jQuery), JAX-RS, Spring, Hibernate, Android SDK<br /><br />
