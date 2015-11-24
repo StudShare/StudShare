@@ -4,7 +4,7 @@
 Mateusz Zweigert<br />
 Kamil Liwiński<br />
 Adam Żuk<br />
-Bartosz Gross<br />
+Bartosz Gross<br /><br />
 
 <b>Temat pracy:</b> Projekt serwisu społecznościowego do wymiany notatkami, przykładami i wiedzą między uczniami i studentami.<br /><br />
 
