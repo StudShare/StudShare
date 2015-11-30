@@ -6,8 +6,8 @@
 <b>2. Serwis internetowy</b><br /><br />
 
 <b>3. Aplikacja mobilna </b><br />
-  - możliwość logowania się oraz rejestrowania konta w serwisie ✔<br />
-  - zapisywanie profilu użytkownika w aplikacji (brak konieczności logowania się za każdym uruchomieniem aplikacji) ✔<br />
+  - <strike>możliwość logowania się oraz rejestrowania konta w serwisie</strike> ✔<br />
+  - <strike>zapisywanie profilu użytkownika w aplikacji (brak konieczności logowania się za każdym uruchomieniem aplikacji)</strike> ✔<br />
   - możliwość dodawania, przeglądania i edycji swoich notatek<br />
 
 
