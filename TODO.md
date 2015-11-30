@@ -4,6 +4,9 @@
   - w pełni przygotowana struktura bazy danych gotowa do obsłużenia wszystkich założeń projektu<br /><br />
   
 <b>2. Serwis internetowy</b><br /><br />
+- Rejestracja konta 
+- <strike>Logowanie/wylogowanie uzytkownika  </strike>✔
+- możliwość dodawania, przeglądania i edycji swoich notatek
 
 <b>3. Aplikacja mobilna </b><br />
   - <strike>możliwość logowania się oraz rejestrowania konta w serwisie</strike> ✔<br />
