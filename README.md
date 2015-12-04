@@ -50,5 +50,5 @@ Na projekt składają się:
 
 <b>Schematy</b><br />
 
-  - <a href="http://oi66.tinypic.com/2bb9qb.jpg">Diagram przypadków użycia</a>
-  - <a href="http://i68.tinypic.com/2ufrj2a.jpg">Wzbogacony wizerunek (Rich Picture)</a>
+  - <a href="http://oi66.tinypic.com/2bb9qb.jpg" target="_blank">Diagram przypadków użycia</a>
+  - <a href="http://i68.tinypic.com/2ufrj2a.jpg" target="_blank">Wzbogacony wizerunek (Rich Picture)</a>
