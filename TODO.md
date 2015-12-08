@@ -1,7 +1,8 @@
 #Założenia do zrealizowania wciągu semestru zimowego roku akademickiego 2015/2016
 
 <b>1. Baza danych</b><br />
-  - w pełni przygotowana struktura bazy danych gotowa do obsłużenia wszystkich założeń projektu<br /><br />
+  - w pełni przygotowana struktura bazy danych gotowa do obsłużenia wszystkich założeń projektu<br />
+  - <a href="http://i68.tinypic.com/2zf1mqq.jpg">Wersja z dn. 08.12.15</a><br />
   
 <b>2. Serwis internetowy</b><br /><br />
 - Rejestracja konta 
