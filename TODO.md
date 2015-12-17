@@ -15,5 +15,11 @@
   - <strike>zmiana hasla do konta z poziomu aplikacji</strike> ✔<br />
   - <strike>zmiana kontaktowego e-mail'a z poziomu aplikacji</strike> ✔<br />
   - możliwość dodawania, przeglądania i edycji swoich notatek<br />
+    - notatki zdjeciowe:
+      - <strike>dodawanie zdjec do bazy z kamery urzadzenia</strike> ✔<br />
+      - <strike>wyswietlanie uzytkownikowi listy dodanych przez niego notatek zdjeciowych</strike> ✔<br />
+      - <strike>podglad dodanych przez uzytkownika notatek zdjeciowych</strike> ✔<br />
+      - edycja dodanych przez uzytkownika notatek zdjeciowych (kasowanie lub edycja tytulu, tagow)
+      - wczytywanie zdjec z pamieci wewnetrznej urzadzenia
 
 
