@@ -6,7 +6,7 @@
   
 <b>2. Serwis internetowy</b><br /><br />
 - Rejestracja konta 
-- <strike>Logowanie/wylogowanie uzytkownika  </strike>✔
+- <strike>Logowanie/wylogowanie uzytkownika </strike> ✔
 - możliwość dodawania, przeglądania i edycji swoich notatek
 
 <b>3. Aplikacja mobilna </b><br />
@@ -19,7 +19,13 @@
       - <strike>dodawanie zdjec do bazy z kamery urzadzenia</strike> ✔<br />
       - <strike>wyswietlanie uzytkownikowi listy dodanych przez niego notatek zdjeciowych</strike> ✔<br />
       - <strike>podglad dodanych przez uzytkownika notatek zdjeciowych</strike> ✔<br />
-      - edycja dodanych przez uzytkownika notatek zdjeciowych (kasowanie lub edycja tytulu, tagow)
-      - wczytywanie zdjec z pamieci wewnetrznej urzadzenia
+      - <strike>edycja dodanych przez użytkownika notatek zdjeciowych (kasowanie lub edycja tytulu, tagow)</strike> ✔<br />
+      - wczytywanie zdjeć z pamieci wewnetrznej urzadzenia
+    - notatki tekstowe:
+      - dodawanie notatek do bazy z poziomu wygodnego edytora tekstowego
+      - wyswietlanie uzytkownikowi listy dodanych przez niego notatek tekstowych
+      - podglad dodanych przez uzytkownika notatek tekstowych
+      - edycja dodanych przez użytkownika notatek tekstowych (kasowanie lub edycja tytulu, tagow)
+      - wczytywanie plikow tekstowych z pamieci wewnetrznej urzadzenia
 
 
