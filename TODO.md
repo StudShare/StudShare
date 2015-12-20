@@ -5,7 +5,7 @@
   - <a href="http://i68.tinypic.com/2zf1mqq.jpg">Wersja z dn. 08.12.15</a><br />
   
 <b>2. Serwis internetowy</b><br /><br />
-- Rejestracja konta 
+- <strike>Rejestracja konta </strike> ✔
 - <strike>Logowanie/wylogowanie uzytkownika </strike> ✔
 - możliwość dodawania, przeglądania i edycji swoich notatek
 
