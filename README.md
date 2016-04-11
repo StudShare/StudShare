@@ -84,3 +84,4 @@ Na projekt składają się:
   
   - Kamil Liwinski (aplikacja internetowa)
     - CRUD dla notatek zdjeciowych, tekstowych i binarnych
+    - Pomoc przy logowaniu i rejestracji uzytkownika (pomoc z JavaMail)
