@@ -52,3 +52,35 @@ Na projekt składają się:
 
   - <a href="http://oi66.tinypic.com/2bb9qb.jpg" target="_blank">Diagram przypadków użycia</a>
   - <a href="http://i68.tinypic.com/2ufrj2a.jpg" target="_blank">Wzbogacony wizerunek (Rich Picture)</a>
+
+<b>Zakres wykonanych zadań:</b><br />
+
+  - Adam Żuk (aplikacja dla systemu Android)
+    - Layout aplikacji
+    - Komunikacja z serwerem SQL
+    - System rejestracji/logowania uzytkownika
+    - Zarzadzanie kontem uzytkownika (zmiana e-maila kontaktowego, zmiana hasla)
+    - CRUD dla notatek zdjeciowych
+    - System oceniania notatek
+    - System tagowania notatek
+    - System wyszukiwania notatek
+  
+  - Szymon Filipowicz (aplikacja dla systemu Android)
+    - Mozliwosc przegladania urzadzenia w poszukiwaniu pliku, ktory uzytkownik chce dodac
+    - System dodawania notatek w formie plikow binarnych 
+    - Podglad, dodawanie i usuwanie notatek w formie plikow binarnych
+  
+  - Bartosz Gross (aplikacja dla systemu Android)
+    - Edytor notatek tekstowych
+    - CRUD dla notatek tekstowych
+   
+  - Mateusz Zweigert (aplikacja internetowa)
+    - Logowanie i rejestracja uzytkownika
+    - Zarzadzanie kontem uzytkownika (zmiana hasla, zmiana adresu e-mail)
+    - System tagowania notatek
+    - System wyszukiwania notatek
+    - Wyswietlanie ocen dla notatek
+    - Layout aplikacji
+  
+  - Kamil Liwinski (aplikacja internetowa)
+    - CRUD dla notatek zdjeciowych, tekstowych i binarnych
